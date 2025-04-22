@@ -24,6 +24,9 @@ Your game will still lack variety because every Zoi will have to same preference
 5) Save the game
 
 You can check if everything worked correctly by interacting with a Zoi and opening the little summary menu (the little icon next to the Zoi name when you interact). It should say "Attracted To: Male, Female, Nonbinary".
+Example:
+
+![Example image showing Zoi attracted to every available gender](https://raw.githubusercontent.com/PaaaulZ/FreeToLove/refs/heads/main/example.png)
 
 ## DISCLAIMER
 
