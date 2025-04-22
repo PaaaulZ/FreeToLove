@@ -18,7 +18,7 @@ Your game will still lack variety because every Zoi will have to same preference
 ## How to install
 
 1) Find the folder where you installed inZOI and extract the contents of UE4SS in **\BlueClient\Binaries\Win64**
-2) Extract the contents of this repository in the newly created Mods folder in **\BlueClient\Binaries\Win64**. You should have this folder structure: Mods/FreeToLove/Scripts
+2) Extract the contents of this repository in the inZOI installation folder. In the end you should have this folder structure: Mods/FreeToLove/Scripts
 3) Open **mods.txt** in the newly created Mods folder and add this line: ```FreeToLove : 1```
 4) Open inZOI and **when the world is completely loaded and you have control of your Zoi** press **F12**
 5) Save the game
